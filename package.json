@@ -1,7 +1,7 @@
 {
   "name": "realtime-chat",
   "version": "0.1.0",
-  "homepage": "https://11ung.github.io/react-chat-realtime",
+  "homepage": "https://11ung.github.io/react-realtime-chat",
   "private": true,
   "dependencies": {
     "@types/node": "^15.0.0",
