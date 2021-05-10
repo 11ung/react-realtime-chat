@@ -1,0 +1,25 @@
+.tr_mess-nav{
+    min-width: 200px;
+    max-width: 300px;
+    width: 300px;
+    border-right: 1px solid #1111111f;
+
+    &__header{
+        padding: 8px 0;
+        padding: 0 14px;
+
+        h1{
+            font-size: 24px;
+            margin: 0;
+        }
+
+    }
+
+    &__content{
+        padding-left: 14px;
+        padding-right: 8px;
+        height: calc(100% - 90px);
+        overflow: auto;
+        overflow-x: hidden;
+    }
+}

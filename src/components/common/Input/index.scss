@@ -1,0 +1,30 @@
+
+.tr__field {
+    position: relative;
+
+    label {
+        display: block;
+        line-height: 1.5;
+        word-break: break-all;
+        color: #777;
+        font-weight: 500!important;
+    }
+
+    &-input{
+        padding: 10px 0;
+        border: none;
+        border-bottom: 1px solid #d8d8d8;
+        color: #333;
+        width: 100%;
+        resize: vertical;
+        background-color: #fff;
+        font-size: 13px;
+    }
+
+    p.error {
+        margin-top: 3px;
+        position: absolute;
+        color: red;
+    }
+
+}

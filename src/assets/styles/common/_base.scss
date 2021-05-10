@@ -1,0 +1,87 @@
+@import 'assets/styles/helpers/_variables';
+
+* {
+    font-size: $base-size;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: $bg-grey;
+    color: $base-text-color;
+    line-height: 1.2;
+    font-size: $base-size;
+	margin: 0;
+	padding: 0;
+
+    #root {
+        min-height: 100vh;
+    }
+
+}
+
+
+
+.text-right {
+	text-align: right;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.flex {
+	display: flex;
+}
+
+.flex-center {
+	align-items: center;
+	justify-content: center;
+}
+
+.relative {
+	position: relative;
+}
+
+.text-uppercase {
+	text-transform: uppercase;
+}
+
+.text-capitalize {
+	text-transform: capitalize;
+}
+
+.w-100 {
+	width: 100%;
+}
+
+.position-relative {
+	position: relative;
+}
+
+
+.input-search input{
+    background-color: #e4e6eb;
+    border-radius: 18px;
+    padding: 8px 0;
+    border: none;
+    width: calc(100% - 16px);
+    resize: vertical;
+    padding-left: 16px;
+    font-size: 13px;
+}
+
+
+input:focus-visible{
+    outline: 0;
+}
+
+.tr__field, .tr__field--wrapper{
+    position: relative;
+}

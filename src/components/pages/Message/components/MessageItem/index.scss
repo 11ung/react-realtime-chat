@@ -1,0 +1,31 @@
+
+.avatar-mess{
+    height: 28px;
+    width: 28px;
+    border-radius: 50%;
+}
+
+.tr_mess{
+    min-width: 100px;
+    padding: 8px;
+    border-radius: 18px;
+    align-items: center;
+}
+
+.left {
+    justify-content: flex-start;
+}
+
+.right {
+    justify-content: flex-end;
+}
+
+.left .tr_mess{
+    background-color: #e4e6eb;
+    color: #050505;
+}
+
+.right .tr_mess{
+    background-color: rgb(0, 132, 255);
+    color: #fff;
+}

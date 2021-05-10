@@ -1,0 +1,39 @@
+.avatar{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.tr_user-item{
+    height: 50px;
+    padding: 8px;
+    border-radius: 8px;
+
+    &:hover {
+        cursor: pointer;
+        background-color: #e4e6eb78;
+    }
+
+    &__info{
+        padding: 8px 0px;
+        padding-right: 10px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+        &-name{
+            font-size: 16px;
+        }
+
+        &-name, &-mess{
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+    }
+}
+
+.tr_user-item.selected{
+    background-color: #0084ff1a;
+}
