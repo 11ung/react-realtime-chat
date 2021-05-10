@@ -5,8 +5,8 @@
     "main.js.map": "/react-realtime-chat/static/js/main.25daaf41.chunk.js.map",
     "runtime-main.js": "/react-realtime-chat/static/js/runtime-main.c21169c8.js",
     "runtime-main.js.map": "/react-realtime-chat/static/js/runtime-main.c21169c8.js.map",
-    "static/js/2.fadb60e6.chunk.js": "/react-realtime-chat/static/js/2.fadb60e6.chunk.js",
-    "static/js/2.fadb60e6.chunk.js.map": "/react-realtime-chat/static/js/2.fadb60e6.chunk.js.map",
+    "static/js/2.dbc66ed4.chunk.js": "/react-realtime-chat/static/js/2.dbc66ed4.chunk.js",
+    "static/js/2.dbc66ed4.chunk.js.map": "/react-realtime-chat/static/js/2.dbc66ed4.chunk.js.map",
     "static/css/3.8144bfd4.chunk.css": "/react-realtime-chat/static/css/3.8144bfd4.chunk.css",
     "static/js/3.ab8cab75.chunk.js": "/react-realtime-chat/static/js/3.ab8cab75.chunk.js",
     "static/js/3.ab8cab75.chunk.js.map": "/react-realtime-chat/static/js/3.ab8cab75.chunk.js.map",
@@ -23,12 +23,12 @@
     "static/css/3.8144bfd4.chunk.css.map": "/react-realtime-chat/static/css/3.8144bfd4.chunk.css.map",
     "static/css/4.ffc35d12.chunk.css.map": "/react-realtime-chat/static/css/4.ffc35d12.chunk.css.map",
     "static/css/main.edf7d349.chunk.css.map": "/react-realtime-chat/static/css/main.edf7d349.chunk.css.map",
-    "static/js/2.fadb60e6.chunk.js.LICENSE.txt": "/react-realtime-chat/static/js/2.fadb60e6.chunk.js.LICENSE.txt",
+    "static/js/2.dbc66ed4.chunk.js.LICENSE.txt": "/react-realtime-chat/static/js/2.dbc66ed4.chunk.js.LICENSE.txt",
     "static/media/default-avatar.522560c8.png": "/react-realtime-chat/static/media/default-avatar.522560c8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c21169c8.js",
-    "static/js/2.fadb60e6.chunk.js",
+    "static/js/2.dbc66ed4.chunk.js",
     "static/css/main.edf7d349.chunk.css",
     "static/js/main.25daaf41.chunk.js"
   ]
