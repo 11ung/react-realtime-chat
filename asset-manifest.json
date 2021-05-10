@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-chat-realtime/static/css/main.edf7d349.chunk.css",
+    "main.js": "/react-chat-realtime/static/js/main.25daaf41.chunk.js",
+    "main.js.map": "/react-chat-realtime/static/js/main.25daaf41.chunk.js.map",
+    "runtime-main.js": "/react-chat-realtime/static/js/runtime-main.9190aeec.js",
+    "runtime-main.js.map": "/react-chat-realtime/static/js/runtime-main.9190aeec.js.map",
+    "static/js/2.a32605dc.chunk.js": "/react-chat-realtime/static/js/2.a32605dc.chunk.js",
+    "static/js/2.a32605dc.chunk.js.map": "/react-chat-realtime/static/js/2.a32605dc.chunk.js.map",
+    "static/css/3.8144bfd4.chunk.css": "/react-chat-realtime/static/css/3.8144bfd4.chunk.css",
+    "static/js/3.ab8cab75.chunk.js": "/react-chat-realtime/static/js/3.ab8cab75.chunk.js",
+    "static/js/3.ab8cab75.chunk.js.map": "/react-chat-realtime/static/js/3.ab8cab75.chunk.js.map",
+    "static/css/4.ffc35d12.chunk.css": "/react-chat-realtime/static/css/4.ffc35d12.chunk.css",
+    "static/js/4.486ffab8.chunk.js": "/react-chat-realtime/static/js/4.486ffab8.chunk.js",
+    "static/js/4.486ffab8.chunk.js.map": "/react-chat-realtime/static/js/4.486ffab8.chunk.js.map",
+    "static/js/5.17ea0e97.chunk.js": "/react-chat-realtime/static/js/5.17ea0e97.chunk.js",
+    "static/js/5.17ea0e97.chunk.js.map": "/react-chat-realtime/static/js/5.17ea0e97.chunk.js.map",
+    "static/js/6.3f034c82.chunk.js": "/react-chat-realtime/static/js/6.3f034c82.chunk.js",
+    "static/js/6.3f034c82.chunk.js.map": "/react-chat-realtime/static/js/6.3f034c82.chunk.js.map",
+    "static/js/7.27837143.chunk.js": "/react-chat-realtime/static/js/7.27837143.chunk.js",
+    "static/js/7.27837143.chunk.js.map": "/react-chat-realtime/static/js/7.27837143.chunk.js.map",
+    "index.html": "/react-chat-realtime/index.html",
+    "static/css/3.8144bfd4.chunk.css.map": "/react-chat-realtime/static/css/3.8144bfd4.chunk.css.map",
+    "static/css/4.ffc35d12.chunk.css.map": "/react-chat-realtime/static/css/4.ffc35d12.chunk.css.map",
+    "static/css/main.edf7d349.chunk.css.map": "/react-chat-realtime/static/css/main.edf7d349.chunk.css.map",
+    "static/js/2.a32605dc.chunk.js.LICENSE.txt": "/react-chat-realtime/static/js/2.a32605dc.chunk.js.LICENSE.txt",
+    "static/media/default-avatar.522560c8.png": "/react-chat-realtime/static/media/default-avatar.522560c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9190aeec.js",
+    "static/js/2.a32605dc.chunk.js",
+    "static/css/main.edf7d349.chunk.css",
+    "static/js/main.25daaf41.chunk.js"
+  ]
+}
